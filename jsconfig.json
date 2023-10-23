@@ -1,11 +1,6 @@
 {
   "compilerOptions": {
-    "jsx": "react",
-    "baseUrl": "src",
-    "noUnusedLocals": true,
-    "noUnusedParameters": true
+    "baseUrl": "."
   },
-  "include": [
-    "./src"
-  ]
+  "include": ["src"]
 }
